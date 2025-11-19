@@ -10,7 +10,7 @@
 
 ##  Executive Summary
 
-This project demonstrates the design and implementation of a segmented network architecture using enterprise security principles. The lab environment simulates a multi-zone network with proper isolation, firewall controls, and intrusion detection—all built using virtualization technology at zero cost.
+This project demonstrates the design and implementation of a segmented network architecture using enterprise security principles. The lab environment simulates a multi-zone network with proper isolation, firewall controls, and intrusion detection, all built using virtualization technology at zero cost.
 
 **Bottom Line:** Successfully implemented network segmentation that prevents compromised IoT devices from accessing trusted systems, while maintaining full internet connectivity and administrative oversight.
 
